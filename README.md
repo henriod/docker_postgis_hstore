@@ -5,7 +5,7 @@ Useful when you want to have hstore enabled in your CI pipeline and saving time.
 ```
 henriod/postgis_hstore:13-3.1
 ```
-To be available on Docker Hub
+Now available on [Docker Hub](https://registry.hub.docker.com/repository/docker/henriod/postgis_hstore)
 
 -----
 Credit to all whose code help me come up with this.
