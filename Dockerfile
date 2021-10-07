@@ -1,4 +1,4 @@
-FROM postgis/postgis:13-3.1
+FROM postgis/postgis:latest
 
 LABEL maintainer="Odhiambo-https://github.com/henriod"
 
